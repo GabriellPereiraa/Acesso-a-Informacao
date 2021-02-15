@@ -2,7 +2,7 @@
     <div id="sidebar">
         <div class="sidebar-wrapper active ps ps--active-y">
             <div class="m-4">
-                <a href="/index.php">
+                <a href="index.php">
                     <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                 </a>
             </div>
@@ -16,7 +16,7 @@
                         </a>
                     </li> -->
                     <li class="sidebar-item">
-                        <a href="/AcessoInformacao.php" class="sidebar-link">
+                        <a href="AcessoInformacao.php" class="sidebar-link">
                             <i data-feather="home" width="20"></i>
                             <span>Módulo II - Acesso à Informação</span>
                         </a>

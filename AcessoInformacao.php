@@ -1002,7 +1002,8 @@ include('layout/header.php');
                 </div>
             </div>
             <div class="botao_btt invisivel">
-                <i class="fas fa-caret-up" style="color:white"></i>
+                <span> Voltar ao topo </span>
+               
             </div>
         </div>
     </div>

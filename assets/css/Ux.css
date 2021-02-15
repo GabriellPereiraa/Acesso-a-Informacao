@@ -345,26 +345,31 @@ Texto negrito
 /* Botão back to top */
 .botao_btt {
     background: green none repeat scroll 0 0;
-    border-radius: 100px;
+    border-radius: 10px;
     bottom: 50px;
     cursor: pointer;
-    height: 40px;
+    height: 50px;
     position: fixed;
     right: 30px;
     text-align: center;
-    width: 40px;
+    width: 50px;
     z-index: 999;
     transition: all 0.5s ease-out;
+    font-weight: 500;
+    font-size: 10px;
+    padding-top: 10px;
+ 
   }
   
   .botao_btt:hover {
-    background: #2dc534; 
+    background: #00C400;
+    height: 52px;
+    width: 52px;
   }
   
-  .botao_btt i {
-    color: #fff;
-    font-size: 24px;
-    line-height: 38px;
+  .botao_btt span {
+    padding-top: 10px;
+    color:white
   }
   
   .invisivel {
