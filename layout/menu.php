@@ -6,6 +6,7 @@
                     <img class="img-fluid" src="https://atilasilvalima.a2hosted.com/projects/EGPCE/Cedis/cdn/imagens/egpce.png" alt="Logo EGPCE" srcset="">
                 </a>
             </div>
+            <br>
             <div class="sidebar-menu ">
                 <ul class="menu">
                     <!--  <li class="sidebar-item">
