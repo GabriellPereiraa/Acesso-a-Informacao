@@ -1,7 +1,7 @@
 <h6 class="bg-danger text-center text-white">EM DESENVOLVIMENTO</h6>
 <nav class="navbar navbar-header navbar-expand navbar-light">
     <!-- BTN HAMBURGUER MENU LATERAL -->
-    <a class="sidebar-toggler" href="#"><span class="navbar-toggler-icon"></span></a>
+    <a class="sidebar-toggler" href="#" id="Mlateral"><span class="navbar-toggler-icon"></span><span class="Mlateral">MENU LATERAL</span></a>
     <button class="btn navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>

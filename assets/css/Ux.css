@@ -302,6 +302,20 @@ Texto negrito
     animation: bounce 1s linear;
 }
 
+/*Fim da Animação da Seta*/
+
+/* Menu Lateral */
+
+.Mlateral{
+    color:grey;
+    
+}
+#Mlateral{
+    text-decoration: none;
+    border: 2px solid grey;
+    padding: 5px 5px;
+}
+
 @keyframes bounce{
     20%,50%,80%,to{
         transform: translateY()
